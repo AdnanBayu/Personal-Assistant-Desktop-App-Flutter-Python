@@ -8,7 +8,7 @@ Developed using Dart Flutter and Python. Require some packages such as mediapipe
 4. https://stackoverflow.com/questions/73244635/how-to-simply-get-the-master-volume-of-windows-in-python?noredirect=1&lq=1
 
 ## Demo Video
-
+https://youtu.be/F0_hK_t2kkE
 
 ## Preview Image
 User interface </br>
